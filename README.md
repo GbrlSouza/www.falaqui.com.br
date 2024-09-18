@@ -35,4 +35,4 @@ FalaQui-Demo/
 ├── README.md
 └── assets/
     └── css/
-        └── style.css (opcional)
+        └── style.css
