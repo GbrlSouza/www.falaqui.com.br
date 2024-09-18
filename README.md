@@ -1,4 +1,4 @@
-# FalaQui Demo - Onepage Website
+# FalaQui - Onepage Website
 
 Este é um projeto de website institucional e demonstrativo para a plataforma FalaQui, desenvolvido com **Bootstrap 5**. O site é **onepage**, **responsivo**, e contém animações suaves. As cores principais são **Vermelho**, **Amarelo**, **Branco** e **Preto**, com a **fonte Montserrat**.
 
